@@ -11,9 +11,8 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 /**
  * 屏幕上查找指定图片
- * @author Jeby Sun
- * @date 2014-09-13
- * @website http://www.jebysun.com
+ * @author hf
+ * @date 2019-10-20
  */
 public class ImageFindDemo {
     
